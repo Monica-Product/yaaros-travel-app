@@ -1,0 +1,6 @@
+{
+  "name": "Yaaros - Jaipur Travel Discovery Assistant",
+  "description": "AI-powered travel discovery assistant for first-time visitors to Jaipur, Rajasthan. Explore historical forts, heritage palaces, authentic Rajasthani cuisine, and cultural treasures grounded in a verified knowledge base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
